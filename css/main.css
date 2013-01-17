@@ -1,0 +1,167 @@
+.navbar .brand {
+	background: url(../img/Unleashed_Logo_Simple_v3_small.png) no-repeat;
+	text-indent: -99999px;
+	display: inline-block;
+	width: 75px;
+}
+.login-form {
+width: 400px;
+margin: 0 auto;
+}
+
+.fb-twitter{
+	margin: 0 auto;
+	width: 141px;
+}
+
+.twitter-follow-btn-default, .twitter-follow-btn-inprog {
+	background: #1D6B9C url(https://twitter-any.s3.amazonaws.com/1.2.0/images/gradient-background.png) repeat-x;
+	border: 1px solid #18566A;
+	padding: 0 7px 0 2px;
+	border-radius: 6px;
+	line-height: 23px;
+}
+
+.twitter-follow-btn-default:hover {
+	background-position: 0 -23px;
+}
+
+.asterisk {
+	color: red;
+	padding: 2px;
+	font-size: 14px;
+}
+.twitter-follow-btn-default i, .twitter-follow-btn-inprog i {
+	float: left;
+	height: 22px;
+	width: 23px;
+	border-right: 1px solid #73AFD5;
+}
+
+.twitter-follow-btn-default i b {
+display: block;
+background: url(https://twitter-any.s3.amazonaws.com/1.2.0/images/t_170px.png) no-repeat 3px 3px;
+height: 22px;
+width: 22px;
+border-right: 1px solid 
+#094B60;
+}
+
+.twitter-follow-btn-default a, .twitter-follow-btn-inprog a {
+font: 12px Arial, sans-serif;
+text-shadow: 0 -1px 0 #18566A;
+padding: 0 0 0 4px;
+overflow: visible;
+border: 0;
+background: transparent;
+color: white;
+text-decoration: none;
+}
+
+/*FACEBOOK Button*/
+.pluginFaviconButton {
+	display: inline-block;
+	background-color: #5F78AB;
+	color: white;
+	cursor: pointer;
+}
+
+.sx_440ac4 {
+	background-position: -0px -40px;
+}
+
+.sp_9kaipv {
+	background-image: url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yE/r/K0a4D-EwjJ8.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 39px;
+	width: 39px;
+}
+.pluginFaviconButtonIcon, .pluginFaviconButtonIconActive {
+	vertical-align: top;
+}
+
+.pluginFaviconButtonBorder {
+	display: inline-block;
+	border-top: 1px solid #29447E;
+	border-right: 1px solid #29447E;
+	border-bottom: 1px solid #1A356E;
+}
+
+.fwb {
+	font-weight: bold;
+}
+
+.pluginFaviconButtonText {
+	display: inline-block;
+	border-top: 1px solid #879AC0;
+}
+
+.pluginFaviconButtonXlarge .pluginFaviconButtonText {
+	font-size: 24px;
+	line-height: 30px;
+	padding: 3px 8px 3px;
+}
+
+div.itemsContainer{
+  background: white;
+  opacity: 0.5;
+  
+}
+
+.loading {
+	background:url(../img/loading1.gif) no-repeat 50% #fff ;
+	position: absolute;
+
+}
+
+input.error {
+	border:1px solid #B94A48;
+}
+label.error {
+	color: #B94A48;
+	display: inline-block;
+	margin: 0 0 0 12px;
+	/*position: absolute;*/
+}
+
+/*div#location-map {
+  width: 800px;
+  height: 450px;
+}*/
+
+div#myCarousel {
+  width: 600px;
+  height: 400px;
+  text-align: center;
+}
+
+div#petFeedsCarousel{
+  width: 400px;
+  height: 100px;
+  text-align: center;
+}
+
+
+html,body{
+    height:100%;
+    margin:0;
+    overflow:auto;
+}
+.maincontainer{
+  min-height:90%;
+}
+*html .maincontainer{ 
+    height:90%;
+}
+#content-clear{
+    clear:both;
+    height:100px;
+}
+
+.footer {
+  padding: 35px 0 36px;
+  border-top: 1px solid #E5E5E5;
+  margin-top:-55px;
+  position: relative;
+}

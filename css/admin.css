@@ -1,0 +1,72 @@
+.navbar .brand {
+	background: url(../img/Unleashed_Logo_Simple_v3_small.png) no-repeat;
+	text-indent: -99999px;
+	display: inline-block;
+	width: 75px;
+}
+.login-form {
+width: 400px;
+margin: 0 auto;
+}
+
+.pluginFaviconButtonText {
+	display: inline-block;
+	border-top: 1px solid #879AC0;
+}
+
+.pluginFaviconButtonXlarge .pluginFaviconButtonText {
+	font-size: 24px;
+	line-height: 30px;
+	padding: 3px 8px 3px;
+}
+
+div.itemsContainer{
+  background: white;
+  opacity: 0.5;
+  
+}
+
+.loading {
+	background:url(../img/loading1.gif) no-repeat 50% #fff ;
+	position: absolute;
+
+}
+
+input.error {
+	border:1px solid #B94A48;
+}
+label.error {
+	color: #B94A48;
+	display: inline-block;
+	margin: 0 0 0 12px;
+	/*position: absolute;*/
+}
+
+div#location-map {
+        height: 400px;
+        width: 700px;
+}
+
+
+html,body{
+    height:100%;
+    margin:0;
+    overflow:auto;
+}
+.maincontainer{
+  min-height:90%;
+}
+*html .maincontainer{ 
+    height:90%;
+}
+#content-clear{
+    clear:both;
+    height:100px;
+}
+
+.footer {
+  padding: 35px 0 36px;
+  border-top: 1px solid #E5E5E5;
+  margin-top:-55px;
+  position: relative;
+}

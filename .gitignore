@@ -1,0 +1,8 @@
+nbproject
+application/config/database.php
+aplication/cache/
+application/bootstrap.php
+application/logs/*
+images/
+docs/pdfs/*
+*.DS_Store
